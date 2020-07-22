@@ -1,0 +1,34 @@
+.campo {
+    text-align: center;
+    display: block;
+    size: 500px;
+}
+
+.botao2 {
+  padding: 10px 10px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #cfcfcf;
+}
+.botao1 {
+    padding: 10px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #cfcfcf;;
+}
+
+.info1{
+    font-size: 11px;
+    color: blue;
+}
+
+.aqui{
+    cursor: pointer;
+    font-size: 13px;
+    color: blue;
+}
+
+.campoNome{
+    text-align: center;
+    border-spacing: 12px;
+}
